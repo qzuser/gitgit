@@ -1,2 +1,0 @@
-# gitgit
-gitgit
